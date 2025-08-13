@@ -1,2 +1,3 @@
 # Projeto Redes Sociais
-* Link do site: 
+Projeto criado para o curso de HTML/CSS da instituição CursoemVideo.
+* Link do site: https://joaoncr.github.io/projeto-redes-sociais/
